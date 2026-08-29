@@ -57,7 +57,7 @@ ISO/IEC/IEEE 29119 ist eine international anerkannte Normenfamilie für Software
 ### ISTQB
 Das ISTQB orientiert seine Definitionen und Vorgehensweisen oft an gängigen Standards wie ISO 29119.
 - **Zweck:** Schafft ein einheitliches, weltweites Verständnis und standardisiertes Know-how für Softwaretester.
-- **Zertifizierung: **Bietet den bekannten Certified Tester Foundation Level (CTFL) sowie fortgeschrittene Stufen (Advanced Level).
+- **Zertifizierung:** Bietet den bekannten Certified Tester Foundation Level (CTFL) sowie fortgeschrittene Stufen (Advanced Level).
 - **Bezug:** Das ISTQB liefert die Qualifikation für Personen, während ISO 29119 den organisatorischen und prozessualen Rahmen für Unternehmen vorgibt
 
 ---
@@ -148,7 +148,7 @@ Das ISTQB orientiert seine Definitionen und Vorgehensweisen oft an gängigen Sta
 - **White-Box** (Code bekannt) · **Black-Box** (nur Ein-/Ausgabe) · **Grey-Box** (Mischform)
 
 ### Spezielle Testarten
-- **Penetrationstest**: 6-Schritte-Modell – Vorbereitung/Scoping → Reconnaissance → Schwachstellenanalyse → Exploitation → Auswertung → Berichterstattung
+- **Penetrationstest**: 6-Schritte-Modell **[Recherche]** – Vorbereitung/Scoping → Reconnaissance → Schwachstellenanalyse → Exploitation → Auswertung → Berichterstattung
 - **Regressionstest**: prüft, dass Änderungen bestehende Funktionalität nicht beeinträchtigen
 - **Wiederanlauftest**: prüft korrekten, konsistenten Wiederanlauf nach Systemausfall (vgl. WAP/WHP im BCM)
 
@@ -156,7 +156,7 @@ Das ISTQB orientiert seine Definitionen und Vorgehensweisen oft an gängigen Sta
 
 ## 7. Testdesign
 
-Statische Tests (ohne Codeausführung: Reviews, statische Analyse) vs. dynamische Tests (mit Codeausführung).
+Statische Tests (ohne Codeausführung: Reviews, statische Analyse) vs. dynamische Tests (mit Codeausführung). <br>
 Testdesign = "eine spezifische Instanziierung eines Testprozesses" (ISTQB); i. d. R. 4 Teststufen entsprechend dem V-Modell.
 
 ---
