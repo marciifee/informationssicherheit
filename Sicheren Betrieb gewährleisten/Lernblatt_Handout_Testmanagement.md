@@ -148,7 +148,7 @@ Das ISTQB orientiert seine Definitionen und Vorgehensweisen oft an gängigen Sta
 - **White-Box** (Code bekannt) · **Black-Box** (nur Ein-/Ausgabe) · **Grey-Box** (Mischform)
 
 ### Spezielle Testarten
-- **Penetrationstest**: 6-Schritte-Modell **[Recherche]** – Vorbereitung/Scoping → Reconnaissance → Schwachstellenanalyse → Exploitation → Auswertung → Berichterstattung
+- **Penetrationstest**: 6-Schritte-Modell – Vorbereitung/Scoping → Reconnaissance → Schwachstellenanalyse → Exploitation → Auswertung → Berichterstattung
 - **Regressionstest**: prüft, dass Änderungen bestehende Funktionalität nicht beeinträchtigen
 - **Wiederanlauftest**: prüft korrekten, konsistenten Wiederanlauf nach Systemausfall (vgl. WAP/WHP im BCM)
 
