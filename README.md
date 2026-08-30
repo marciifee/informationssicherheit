@@ -280,6 +280,33 @@ Der Ordner soll insbesondere dabei helfen, komplexe Aufgabenstellungen strukturi
 
 ---
 
+# ⚠️ Hinweis zur Nutzung
+
+Die Inhalte dieses Repositories wurden im Rahmen meiner eigenen Weiterbildung und Prüfungsvorbereitung erstellt.
+
+Sie sollen:
+
+- beim Lernen unterstützen,
+- komplexe Themen verständlicher darstellen,
+- einen schnellen Überblick ermöglichen und
+- als Ausgangspunkt für die weitere Recherche dienen.
+
+> **Die Inhalte stellen keine offizielle Veröffentlichung der IHK, des BSI, der ISO oder des Gesetzgebers dar.**
+
+Trotz sorgfältiger Aufbereitung können Fehler, veraltete Informationen oder Vereinfachungen enthalten sein.
+
+Für:
+
+- Prüfungen
+- Audits
+- Zertifizierungen
+- rechtliche Bewertungen
+- produktive Sicherheitskonzepte
+
+sollten immer die jeweils aktuellen offiziellen Gesetze, Normen, Standards und Veröffentlichungen herangezogen werden.
+
+---
+
 # 🤝 Mitwirken und Feedback
 
 Fehler gefunden oder eine fachliche Ergänzung?
