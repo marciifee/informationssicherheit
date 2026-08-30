@@ -274,4 +274,22 @@ Der Ordner soll insbesondere dabei helfen, komplexe Aufgabenstellungen strukturi
 │
 ├── Projektunterstützung und -koordination/
 │
-└── Lern- und Arbeitsmethodik/
+└── Lern- und Arbeitsmethodik/s
+
+---
+
+# 🤝 Mitwirken und Feedback
+
+Fehler gefunden oder eine fachliche Ergänzung?
+
+Hinweise, Verbesserungsvorschläge und fachliche Diskussionen sind willkommen.
+
+Je nach Repository-Konfiguration können dafür beispielsweise:
+
+- Issues
+- Pull Requests
+- Discussions
+
+verwendet werden.
+
+Ziel ist es, die Wissensbibliothek kontinuierlich zu verbessern und auch anderen Lernenden eine möglichst hilfreiche Sammlung zur Verfügung zu stellen.
