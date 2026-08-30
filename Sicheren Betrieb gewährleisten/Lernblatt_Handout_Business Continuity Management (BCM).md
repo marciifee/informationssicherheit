@@ -216,12 +216,12 @@ Sie unterscheidet sich vom klassischen Notfall insbesondere dadurch, dass die Si
 
 ```text
 Normalbetrieb
-     ↓
-   Störung
-     ↓
-   Notfall
-     ↓
-    Krise
+   ↓
+Störung
+   ↓
+Notfall
+   ↓
+Krise
 ```
 
 **Merke:** Nicht jede Störung wird zum Notfall und nicht jeder Notfall entwickelt sich zu einer Krise.
@@ -449,11 +449,11 @@ Vereinfacht:
                       │                             │
                       │                         BC-Lösung /
                       │                         Notbetrieb
-                      │								│
-Normalbetrieb ────────│─────────────────────────────│───────────────────────│───────► Ausfall-Zeit; Schadenhöhe steigt mit der Ausfall-Zeit.
-        			  │
-        			  └──────────────── MTPD ───────────────────────────────►
-		◄──── RPO ────│  maximal tolerierbar Ausfallzeit
+                      │                             │
+Normalbetrieb ────────│─────────────────────────────│───────────────────────│───────► Ausfall-Zeit;
+                      │                                                               Schadenhöhe steigt mit der Ausfall-Zeit.
+                      └──────────────── MTPD ───────────────────────────────►
+        ◄──── RPO ────│  maximal tolerierbar Ausfallzeit
        letzter nutzbarer
        Datenbestand
 ```
