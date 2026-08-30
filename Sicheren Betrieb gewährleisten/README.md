@@ -109,12 +109,12 @@ Die drei Themenbereiche ergänzen sich bei der Sicherstellung eines stabilen und
         │               │               │
         ▼               ▼               ▼
 Informations-       Business        Testmanagement
- sicherheit         Continuity           &
-        │             Management     Testautomatisierung
+ sicherheit         Continuity          &
+        │           Management      Testautomatisierung
         │               │               │
         ▼               ▼               ▼
-BSI IT-Grundschutz   Betriebs-       Qualität und
-ISO/IEC 27001        kontinuität     Funktionssicherheit
+BSI IT-Grundschutz  Betriebs-       Qualität und
+ISO/IEC 27001       kontinuität     Funktionssicherheit
         │               │               │
         └───────────────┼───────────────┘
                         ▼
