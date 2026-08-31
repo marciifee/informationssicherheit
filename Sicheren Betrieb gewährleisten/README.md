@@ -10,7 +10,7 @@ Die enthaltenen Dokumente behandeln zentrale organisatorische, technische und me
 
 ### 1. BSI IT-Grundschutz und ISO/IEC 27001
 
-📄 **[BSI IT-Grundschutz und ISO27001.md](./BSI%20IT-Grundschutz%20und%20ISO27001.md)**
+📄 **[BSI IT-Grundschutz und ISO 27001.md](./BSI%20IT-Grundschutz%20und%20ISO%2027001.md)**
 
 Dieses Lernblatt behandelt die Grundlagen des **BSI IT-Grundschutzes** sowie die Abgrenzung und Verbindung zur **ISO/IEC 27001:2022**.
 
