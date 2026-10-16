@@ -33,6 +33,7 @@
 ## 1. Zweck
 
 Die DSGVO schützt natürliche Personen bei der Verarbeitung personenbezogener Daten und gewährleistet zugleich den freien Datenverkehr innerhalb der EU.
+Der Datenschutz soll die Menschen schützen mit dessen Daten verarbeitet werden und die Sicherheit gewährleisten. Datenschutz ist Personenschutz.
 
 ## 2. Personenbezogene Daten
 
