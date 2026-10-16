@@ -2,7 +2,7 @@
 
 ### Kompaktes Nachschlagewerk für die IHK-Prüfung „Geprüfter Berufsspezialist für Informationssicherheit“
 
-**Stand: 31. August 2026**
+**Stand: 16. Oktober 2026**
 
 > **Hinweis:** Dieses Handout dient der Weiterbildung und Prüfungsvorbereitung und ersetzt keine Rechtsberatung im Einzelfall.
 
